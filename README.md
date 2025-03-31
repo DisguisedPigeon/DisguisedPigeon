@@ -40,3 +40,7 @@ I use nvim BTW
 
 
 ###
+
+<img src="https://raw.githubusercontent.com/disguisedpigeon/disguisedpigeon/output/snake.svg" alt="Snake animation" />
+
+###
